@@ -36,29 +36,29 @@
 <svelte:head>
   <meta
     name="description"
-    content="a student-run service for the queer, asexual and trans community at York University."
+    content="come help us run YorkU's 50+ year old queer service group"
   />
 
   <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://tbl.gay" />
+  <meta property="og:url" content="https://hiring.tbl.gay" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="TBLGAY" />
+  <meta property="og:title" content="TBLGAY is hiring!" />
   <meta
     property="og:description"
-    content="a student-run service for the queer, asexual and trans community at York University."
+    content="come help us run YorkU's 50+ year old queer service group"
   />
-  <meta property="og:image" content="https://tbl.gay/cover.jpg" />
+  <meta property="og:image" content="https://hiring.tbl.gay/cover.jpg" />
 
   <!-- Twitter Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta property="twitter:domain" content="tbl.gay" />
-  <meta property="twitter:url" content="https://tbl.gay" />
-  <meta name="twitter:title" content="TBLGAY" />
+  <meta property="twitter:domain" content="hiring.tbl.gay" />
+  <meta property="twitter:url" content="https://hiring.tbl.gay" />
+  <meta name="twitter:title" content="TBLGAY is hiring!" />
   <meta
     name="twitter:description"
-    content="a student-run service for the queer, asexual and trans community at York University."
+    content="come help us run YorkU's 50+ year old queer service group"
   />
-  <meta name="twitter:image" content="https://tbl.gay/cover.jpg" />
+  <meta name="twitter:image" content="https://hiring.tbl.gay/cover.jpg" />
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />

@@ -1,0 +1,20 @@
+[activism]
+name = "activism chair"
+href = "https://docs.google.com/forms/d/e/1FAIpQLSfNGrTDUheW_pYbG79wqXHv6vLTkBCOKsv6X4Sk5i742rgqDg/viewform?usp=sf_link"
+icon = "mdi:loudspeaker"
+color = "white"
+background = "#251848"
+
+[internal]
+name = "internal chair"
+href = "https://docs.google.com/forms/d/e/1FAIpQLSc6H3qFJwXHeGpX9P_5sGId8cpDyQCRv0IPGPbwS5m2RhOswQ/viewform?usp=sf_link"
+icon = "ri:folder-user-fill"
+color = "white"
+background = "rgb(255, 106, 106)"
+
+[contact]
+name = "contact"
+href = "mailto:tblgayinternal@yfs.ca"
+icon = "material-symbols:mail"
+color = "white"
+background = "#529d9d"
